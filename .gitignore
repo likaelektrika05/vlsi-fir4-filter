@@ -1,0 +1,7 @@
+# tool output
+output/
+reports/
+*.log
+*.logv*
+xcelium.d/
+cov_work/
